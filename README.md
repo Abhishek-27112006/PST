@@ -1,2 +1,0 @@
-# PST
-Java programms
